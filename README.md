@@ -35,9 +35,9 @@ Implementation requirements sorted by priority:
 ```mermaid
 graph TD
     UI[UI Layer - Player Console]
-    Service[Service Layer - Game Engine & Command Parser]
+    Service[Service Layer - Game Engine and Command Parser]
     Factory[Factory Layer - GameObject Factory]
-    Observer[Observer Layer - Observer & Subject]
+    Observer[Observer Layer - Observer and Subject]
     Singleton[Singleton Layer - Game State]
     Model[Model Layer - Room Player Item NPC GameObject]
 
