@@ -1,7 +1,7 @@
 # CS1OPNU
 # Module Code: CS1OPNU
 # Assignment report Title: Multi-Player Text Adventure Game Project
-# Student Number: 202483710017/33804435
+# Student Number: 33804435
 # Actual hrs spent for the assignment: 15
 # Which Artificial Intelligence tools used: DouBao
 
